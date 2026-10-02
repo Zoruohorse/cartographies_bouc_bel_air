@@ -1,0 +1,189 @@
+[
+  {
+    "id": "claim_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Porteuse du projet avec 700 millions d'euros d'investissement.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Défend l'éco-conception.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Avis favorable au permis de construire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "En charge du raccordement THT et alerte sur les conflits d'usage.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Milite pour la matérialisation des infrastructures et un moratoire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "S'oppose aux ogres énergétiques et réclame un observatoire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutral",
+    "summary": "Favorable avec réserves, en conflit avec la ligne FNE13.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Tête de liste Bouc-Bel-Air pour tous.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Représente la FNE13.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Représente le collectif Le Nuage était sous nos pieds.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "claim_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_mrs6",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposed",
+    "summary": "Opposé au projet de data center.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  }
+]

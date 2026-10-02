@@ -1,0 +1,101 @@
+[
+  {
+    "id": "evidence_0001",
+    "type": "summary",
+    "text": "Porte le projet de data center MRS6.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0002",
+    "type": "summary",
+    "text": "Dirige Digital Realty en France.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0003",
+    "type": "summary",
+    "text": "Avis favorable sous conditions.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0004",
+    "type": "summary",
+    "text": "Raccorde électriquement l'infrastructure.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0005",
+    "type": "summary",
+    "text": "S'oppose (Moratoire).",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0006",
+    "type": "summary",
+    "text": "S'oppose au projet MRS6.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0007",
+    "type": "summary",
+    "text": "Avis favorable avec réserves, critique la posture radicale de FNE13.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0008",
+    "type": "summary",
+    "text": "S'oppose (Nuisances locales).",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0009",
+    "type": "summary",
+    "text": "Porte-parole de FNE13.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0010",
+    "type": "summary",
+    "text": "Porte-parole du collectif Le Nuage était sous nos pieds.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  },
+  {
+    "id": "evidence_0011",
+    "type": "summary",
+    "text": "S'oppose politiquement.",
+    "source_id": null,
+    "source_status": "to_qualify",
+    "published_at": null,
+    "accessed_at": null
+  }
+]

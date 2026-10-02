@@ -1,0 +1,323 @@
+[
+  {
+    "id": "relation_0001",
+    "source_id": "actor_0001",
+    "target_id": "project_mrs6",
+    "type": "leads",
+    "summary": "Porte le projet — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0002",
+    "source_id": "actor_0002",
+    "target_id": "actor_0001",
+    "type": "represents",
+    "summary": "Dirige — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0003",
+    "source_id": "actor_0003",
+    "target_id": "project_mrs6",
+    "type": "supports_with_conditions",
+    "summary": "Avis favorable sous conditions — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0004",
+    "source_id": "actor_0004",
+    "target_id": "project_mrs6",
+    "type": "connects",
+    "summary": "Raccorde électriquement — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0005",
+    "source_id": "actor_0005",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "S'oppose (Moratoire) — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0006",
+    "source_id": "actor_0010",
+    "target_id": "actor_0005",
+    "type": "represents",
+    "summary": "Porte-parole — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0007",
+    "source_id": "actor_0006",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "S'oppose — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0008",
+    "source_id": "actor_0009",
+    "target_id": "actor_0006",
+    "type": "represents",
+    "summary": "Porte-parole — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0009",
+    "source_id": "actor_0007",
+    "target_id": "project_mrs6",
+    "type": "supports_with_reservations",
+    "summary": "Avis favorable avec réserves — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0010",
+    "source_id": "actor_0007",
+    "target_id": "actor_0006",
+    "type": "criticizes",
+    "summary": "Critique la posture radicale — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0011",
+    "source_id": "actor_0008",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "S'oppose (Nuisances locales) — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_0012",
+    "source_id": "actor_0011",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "S'oppose politiquement — relation issue du nuage fourni.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0001",
+    "source_id": "actor_0001",
+    "target_id": "project_mrs6",
+    "type": "supports",
+    "summary": "Porteuse du projet avec 700 millions d'euros d'investissement.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0002",
+    "source_id": "actor_0002",
+    "target_id": "project_mrs6",
+    "type": "supports",
+    "summary": "Défend l'éco-conception.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0002"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0003",
+    "source_id": "actor_0003",
+    "target_id": "project_mrs6",
+    "type": "supports",
+    "summary": "Avis favorable au permis de construire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0003"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0004",
+    "source_id": "actor_0004",
+    "target_id": "project_mrs6",
+    "type": "position_on",
+    "summary": "En charge du raccordement THT et alerte sur les conflits d'usage.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0004"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0005",
+    "source_id": "actor_0005",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "Milite pour la matérialisation des infrastructures et un moratoire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0005"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0006",
+    "source_id": "actor_0006",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "S'oppose aux ogres énergétiques et réclame un observatoire.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0007",
+    "source_id": "actor_0007",
+    "target_id": "project_mrs6",
+    "type": "position_on",
+    "summary": "Favorable avec réserves, en conflit avec la ligne FNE13.",
+    "certainty": "medium",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0008",
+    "source_id": "actor_0008",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "Tête de liste Bouc-Bel-Air pour tous.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0009",
+    "source_id": "actor_0009",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "Représente la FNE13.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0009"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0010",
+    "source_id": "actor_0010",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "Représente le collectif Le Nuage était sous nos pieds.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "relation_position_claim_0011",
+    "source_id": "actor_0011",
+    "target_id": "project_mrs6",
+    "type": "opposes",
+    "summary": "Opposé au projet de data center.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "valid_from": null,
+    "valid_to": null,
+    "updated_at": "2026-10-02"
+  }
+]
