@@ -1,0 +1,194 @@
+[
+  {
+    "id": "project_mrs6",
+    "type": "project",
+    "name": "Projet MRS6 (Bouc-Bel-Air)",
+    "short_name": "Data Center MRS6",
+    "description": "Projet de data center de 26 000 m² porté par Digital Realty sur l’ancienne ZAC Decathlon.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0001",
+    "type": "organization",
+    "name": "Digital Realty",
+    "short_name": "Digital Realty",
+    "description": "Multinationale américaine",
+    "roles": [
+      {
+        "label": "Multinationale américaine"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0002",
+    "type": "person",
+    "name": "Fabrice Coquio",
+    "short_name": "Fabrice Coquio",
+    "description": "Directeur France de Digital Realty",
+    "roles": [
+      {
+        "label": "Directeur France de Digital Realty"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0003",
+    "type": "organization",
+    "name": "Mairie Bouc-Bel-Air",
+    "short_name": "Mairie Bouc-Bel-Air",
+    "description": "Institution locale (Maire: Mathieu Piétri)",
+    "roles": [
+      {
+        "label": "Institution locale (Maire: Mathieu Piétri)"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0004",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau de transport d'électricité",
+    "roles": [
+      {
+        "label": "Gestionnaire du réseau de transport d'électricité"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0005",
+    "type": "organization",
+    "name": "Le Nuage était sous nos pieds",
+    "short_name": "Le Nuage était sous nos pieds",
+    "description": "Association",
+    "roles": [
+      {
+        "label": "Association"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0006",
+    "type": "organization",
+    "name": "FNE13",
+    "short_name": "FNE13",
+    "description": "Fédération environnementale",
+    "roles": [
+      {
+        "label": "Fédération environnementale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0007",
+    "type": "organization",
+    "name": "Bouc-Bel-Air Environnement (BBAE)",
+    "short_name": "Bouc-Bel-Air Environnement (BBAE)",
+    "description": "Association locale",
+    "roles": [
+      {
+        "label": "Association locale"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0008",
+    "type": "person",
+    "name": "Hervé Plisson",
+    "short_name": "Hervé Plisson",
+    "description": "Riverain opposant",
+    "roles": [
+      {
+        "label": "Riverain opposant"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0009",
+    "type": "person",
+    "name": "Stéphane Coppey",
+    "short_name": "Stéphane Coppey",
+    "description": "Porte-parole",
+    "roles": [
+      {
+        "label": "Porte-parole"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0010",
+    "type": "person",
+    "name": "Antoine Devillet",
+    "short_name": "Antoine Devillet",
+    "description": "Porte-parole",
+    "roles": [
+      {
+        "label": "Porte-parole"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  },
+  {
+    "id": "actor_0011",
+    "type": "person",
+    "name": "Sébastien Barles",
+    "short_name": "Sébastien Barles",
+    "description": "Élu métropolitain",
+    "roles": [
+      {
+        "label": "Élu métropolitain"
+      }
+    ],
+    "categories": [
+      "opposants"
+    ],
+    "updated_at": "2026-10-02"
+  }
+]
