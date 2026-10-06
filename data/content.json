@@ -1,0 +1,78 @@
+{
+  "griefs": [
+    {
+      "title": "⚡ Conflits d’usage électrique",
+      "text": "Le raccordement très haute tension soulève des interrogations sur la disponibilité de la puissance et les conflits d’usage locaux.",
+      "id": "grief_001",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0006"
+      ]
+    },
+    {
+      "title": "🌿 Empreinte environnementale",
+      "text": "Les opposants interrogent la consommation énergétique, l’artificialisation et les effets environnementaux du data center.",
+      "id": "grief_002",
+      "evidence_ids": [
+        "evidence_0006"
+      ],
+      "evidence_note": "Le corpus documente une opposition générale et énergétique ; les effets précis sur l’artificialisation restent à documenter."
+    },
+    {
+      "title": "🏘️ Nuisances locales",
+      "text": "Les préoccupations portent sur la proximité du site, les nuisances et l’intégration territoriale.",
+      "id": "grief_003",
+      "evidence_ids": [
+        "evidence_0008"
+      ]
+    },
+    {
+      "title": "⏸️ Demande de moratoire",
+      "text": "Le collectif Le Nuage était sous nos pieds demande un moratoire et une meilleure matérialisation publique des infrastructures numériques.",
+      "id": "grief_004",
+      "evidence_ids": [
+        "evidence_0005"
+      ]
+    },
+    {
+      "title": "🤝 Avis favorable avec réserves",
+      "text": "Bouc-Bel-Air Environnement adopte une position intermédiaire et demande des garanties sans rejeter totalement le projet.",
+      "id": "grief_005",
+      "evidence_ids": [
+        "evidence_0007"
+      ]
+    }
+  ],
+  "vigilance": [
+    {
+      "id": "vigilance_001",
+      "title": "Conflits d’usage électrique",
+      "text": "RTE signale des risques liés à l’alimentation très haute tension du site.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_002",
+      "title": "Fracture associative",
+      "text": "divergence entre BBAE, favorable avec réserves, et FNE13, opposée au projet.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_003",
+      "title": "Éco-conception",
+      "text": "les engagements défendus par Digital Realty doivent être rattachés à des indicateurs et preuves vérifiables.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_004",
+      "title": "Permis sous conditions",
+      "text": "les réserves et conditions portées par la mairie doivent être suivies dans le temps.",
+      "evidence_ids": []
+    },
+    {
+      "id": "vigilance_005",
+      "title": "Faible corpus",
+      "text": "les données fournies recensent 11 acteurs et 12 liens structurés ; de nouvelles sources pourront enrichir le référentiel.",
+      "evidence_ids": []
+    }
+  ]
+}

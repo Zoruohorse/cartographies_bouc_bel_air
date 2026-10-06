@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Cartographie des acteurs — Bouc-Bel-Air</title>
+  <link rel="stylesheet" href="../../assets/css/cards.css?v=bouc-complet-v2">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="page-header">
+      <div class="header-main">
+        <a class="back-link" href="../../">← Accueil</a>
+        <div class="header-copy"><h1 id="title"></h1><p id="subtitle"></p></div>
+        <a class="switch" href="../network/">Vue réseau</a>
+      </div>
+    </header>
+    <nav class="tabs" aria-label="Navigation principale">
+      <button class="tab-btn active" type="button" data-tab="carto" aria-selected="true">Cartographie des acteurs</button>
+      <button class="tab-btn" type="button" data-tab="griefs" aria-selected="false">Synthèse des oppositions</button>
+      <button class="tab-btn" type="button" data-tab="vigilance" aria-selected="false">Points de vigilance et sources</button>
+    </nav>
+    <section id="tab-carto" class="tab-content active">
+      <main class="layout">
+        <aside class="filters-sidebar">
+          <div class="search-section">
+            <label class="search-label" for="search">Rechercher un acteur</label>
+            <div class="search-wrapper">
+              <span class="search-icon" aria-hidden="true">⌕</span>
+              <input id="search" class="search-input" type="search" placeholder="Nom, fonction, argument..." autocomplete="off" aria-describedby="search-help">
+              <button id="clear-search" class="clear-search" type="button" aria-label="Effacer la recherche">×</button>
+            </div>
+            <p id="search-help" class="search-help">Recherche dans le nom, la fonction, la position et les preuves documentaires.</p>
+          </div>
+          <section class="filter-section"><h2>Collèges d’acteurs</h2><div id="categories"></div></section>
+          <section class="filter-section"><h2>Positionnement</h2><div id="stances"></div></section>
+          <button id="reset" class="reset-filters-btn" type="button">Réinitialiser la recherche et les filtres</button>
+          <p class="data-notice" id="notice"></p>
+        </aside>
+        <section class="actors-area"><div class="results-summary"><p id="count" class="results-count" aria-live="polite"></p></div><div id="grid" class="grid"></div></section>
+      </main>
+    </section>
+    <section id="tab-griefs" class="tab-content"><div id="griefs-grid" class="griefs-grid"></div></section>
+    <section id="tab-vigilance" class="tab-content">
+      <article class="list-card"><h2>Points de vigilance majeurs</h2><div id="vigilance-list"></div></article>
+      <article class="list-card"><h2>Sources répertoriées</h2><div id="sources-list"></div></article>
+    </section>
+  </div>
+  <dialog id="dialog"><button class="close" type="button" aria-label="Fermer">×</button><div id="detail"></div></dialog>
+  <script type="module" src="../../assets/js/cards.js?v=bouc-complet-v2"></script>
+</body>
+</html>
