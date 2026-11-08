@@ -4,7 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Cartographie des acteurs — Bouc-Bel-Air</title>
-  <link rel="stylesheet" href="../../assets/css/cards.css?v=bouc-complet-v2">
+  <link rel="stylesheet" href="../../assets/css/cards.css?v=bouc-complet-v3">
+  <link rel="stylesheet" href="../../assets/css/evolution.css?v=bouc-complet-v3">
+  <link rel="stylesheet" href="../../assets/css/chronology.css?v=bouc-complet-v3">
 </head>
 <body>
   <div class="page-shell">
@@ -19,6 +21,8 @@
       <button class="tab-btn active" type="button" data-tab="carto" aria-selected="true">Cartographie des acteurs</button>
       <button class="tab-btn" type="button" data-tab="griefs" aria-selected="false">Synthèse des oppositions</button>
       <button class="tab-btn" type="button" data-tab="vigilance" aria-selected="false">Points de vigilance et sources</button>
+      <button class="tab-btn" type="button" data-tab="evolution" aria-selected="false">Évolution des acteurs</button>
+      <button class="tab-btn" type="button" data-tab="chronology" aria-selected="false">Chronologie</button>
     </nav>
     <section id="tab-carto" class="tab-content active">
       <main class="layout">
@@ -45,8 +49,18 @@
       <article class="list-card"><h2>Points de vigilance majeurs</h2><div id="vigilance-list"></div></article>
       <article class="list-card"><h2>Sources répertoriées</h2><div id="sources-list"></div></article>
     </section>
+    <section id="tab-evolution" class="tab-content">
+      <div class="evolution-shell"><div id="evolution-root"></div></div>
+    </section>
+    <section id="tab-chronology" class="tab-content">
+      <div class="chronology-shell">
+        <div class="chrono-intro"><h2>Chronologie documentée de MRS6</h2><p>Procédures, positions et repères industriels. Les prévisions restent distinguées des décisions et des faits constatés.</p></div>
+        <div id="chronology-list" class="chrono-grid"></div>
+        <article class="list-card"><h2>Repères techniques et état d’avancement</h2><div id="fact-sheet" class="chrono-grid"></div></article>
+      </div>
+    </section>
   </div>
   <dialog id="dialog"><button class="close" type="button" aria-label="Fermer">×</button><div id="detail"></div></dialog>
-  <script type="module" src="../../assets/js/cards.js?v=bouc-complet-v2"></script>
+  <script type="module" src="../../assets/js/cards.js?v=bouc-complet-v3"></script>
 </body>
 </html>

@@ -111,5 +111,50 @@
       "label": "Relation",
       "directed": true
     }
+  },
+  "timeline": {
+    "grouping": "month",
+    "default_mode": "cumulative",
+    "event_type": "first_documented_appearance",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et responsables politiques",
+        "color": "#d66b9c"
+      },
+      {
+        "id": "associations",
+        "label": "Associations et collectifs",
+        "color": "#ef9e3c"
+      },
+      {
+        "id": "entreprises",
+        "label": "Entreprises et porteurs",
+        "color": "#17a38f"
+      },
+      {
+        "id": "institutions",
+        "label": "Institutions et réseau",
+        "color": "#8b6bc8"
+      },
+      {
+        "id": "collectivites",
+        "label": "Collectivités territoriales",
+        "color": "#4388da"
+      },
+      {
+        "id": "other",
+        "label": "Autres / à qualifier",
+        "color": "#64748b"
+      }
+    ],
+    "fallback_category": "other",
+    "excluded_actor_categories": [
+      "project",
+      "context",
+      "griefs",
+      "sources"
+    ],
+    "counting_note": "Une entité de la base comptée au mois de sa première apparition datée établie dans le corpus. Le groupe catégoriel décrit sa fonction, pas sa position. Événements sans datation individuelle exclus et signalés à part."
   }
 }

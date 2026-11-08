@@ -1,0 +1,11 @@
+/* Chronologie dans la charte des cartes Châteauroux existantes. */
+.chronology-shell{max-width:1550px;margin:0 auto;padding:25px 4vw 55px}
+.chrono-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:18px}
+.chrono-card{border:1px solid #e2e8f0;background:white;border-radius:16px;padding:22px;box-shadow:0 6px 22px #0f172a0b;line-height:1.5}
+.chrono-card h3{font-size:1.08rem;margin:8px 0}.chrono-card p{margin:8px 0}.chrono-card small{display:block;border-top:1px solid #e2e8f0;margin-top:14px;padding-top:10px;line-height:1.6}
+.chrono-card small a{color:#2563eb}.chrono-date{font-size:.76rem;font-weight:800;color:#2563eb}.chrono-card.future .chrono-date{color:#b45309}
+.chronology-shell>.list-card{margin-top:26px}
+
+/* Onglet Chronologie — projets MRS6. */
+.chrono-intro{padding-bottom:20px}.chrono-intro h2{font-size:1.55rem;margin:0 0 6px}.chrono-intro p{color:#64748b;margin:0}
+.chrono-card{overflow-wrap:anywhere}

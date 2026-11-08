@@ -1,4 +1,5 @@
-import{loadRepository,esc,norm,actorClaim,evidenceHtml as sourceEvidenceHtml}from'./data-loader.js?v=bouc-complet-v2';
+import{loadRepository,esc,norm,actorClaim,evidenceHtml as sourceEvidenceHtml}from'./data-loader.js?v=bouc-complet-v3';
+import { initEvolution } from './evolution.js?v=bouc-complet-v3';
 const d=await loadRepository();let cat='all',stance='all',q='';
 const $=id=>document.getElementById(id),title=$('title'),subtitle=$('subtitle'),notice=$('notice'),categories=$('categories'),stances=$('stances'),count=$('count'),grid=$('grid'),search=$('search'),clearSearch=$('clear-search'),reset=$('reset'),dialog=$('dialog'),detail=$('detail');
 title.textContent=d.meta.title;subtitle.textContent=d.meta.subtitle;notice.textContent=d.meta.data_notice;
@@ -25,3 +26,21 @@ function evidenceHtml(d, ids = []) {
     return context + sourceEvidenceHtml(d, [id]);
   }).join('');
 }
+
+/* Cinquième onglet: évolution des acteurs — aucun comptage d'acteurs non datés. */
+initEvolution({repository:d, root:document.getElementById('evolution-root')});
+
+/* Chronologie indépendante, sources qualifiées et projections distinctes. */
+const refsFor=ids=>{
+ const out=new Map();
+ for(const id of ids||[]){
+  const ev=d.evidenceById.get(id),s=ev?.source_id?d.sourceById.get(ev.source_id):null;
+  if(s?.url&&/^https?:\/\//.test(s.url))out.set(s.id,s);
+ }
+ return [...out.values()].map(s=>'<a href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer">'+esc(s.publisher||s.title)+'</a>').join(' · ')||'<span class="muted">Source non qualifiée</span>';
+};
+const dateLabel=x=>x.period_precision==='year'?x.date.slice(0,4):x.period_precision==='month'?x.date.slice(0,7):x.date;
+document.getElementById('chronology-list').innerHTML=(d.content?.milestones||[]).map(m=>
+ '<article class="chrono-card '+(m.status==='forecast'?'future':'')+'"><span class="chrono-date">'+esc(dateLabel(m))+' · '+(m.status==='forecast'?'PRÉVISION':m.status==='reported'?'ÉLÉMENT RAPPORTÉ':'DOCUMENTÉ')+'</span><h3>'+esc(m.title)+'</h3><p>'+esc(m.details)+'</p><small>Sources : '+refsFor(m.evidence_ids)+'</small></article>').join('');
+document.getElementById('fact-sheet').innerHTML=(d.content?.fact_sheet||[]).map(f=>
+ '<article class="chrono-card"><h3>'+esc(f.label)+'</h3><p><strong>'+esc(f.value)+'</strong></p><p>'+esc(f.qualifier)+'</p><small>Sources : '+refsFor(f.evidence_ids)+'</small></article>').join('');

@@ -2,8 +2,8 @@
   "id": "project_mrs6",
   "title": "Cartographie interactive — Projet MRS6 (Bouc-Bel-Air)",
   "subtitle": "Projet d’implantation d’un data center de 26 000 m² porté par Digital Realty, avec enjeux écologiques, nuisances locales et raccordement électrique.",
-  "last_updated": "2026-10-02",
-  "data_notice": "Les éléments sont repris des deux fichiers fournis. Les sources détaillées et URL absentes restent à qualifier.",
+  "last_updated": "2026-11-08",
+  "data_notice": "Mise à jour des onglets Chronologie et Évolution au 8 novembre 2026 à partir d'actes officiels et de prises de position datées. Les 11 fiches acteurs et leurs positions historiques demeurent inchangées ; leurs preuves initiales sans URL ne sont pas qualifiées par cette extension. Les événements et repères des deux nouveaux onglets disposent de sources URL distinctes ; l'avis municipal a évolué entre février et novembre 2025.",
   "griefs": [
     {
       "title": "⚡ Conflits d’usage électrique",
@@ -37,5 +37,6 @@
     "Corpus fourni : Cartes d’acteurs - BBL.txt, positions, arguments et niveaux de certitude.",
     "Corpus fourni : Nuage BBL.txt, acteurs et relations directes.",
     "Sources externes détaillées : à qualifier et à ajouter dans data/sources.json."
-  ]
+  ],
+  "evolution_note": "8 acteurs datés, 3 sans preuve nominative datée ; ce graphique n'est pas une histoire exhaustive des prises de position."
 }

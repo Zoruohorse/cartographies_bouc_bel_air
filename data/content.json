@@ -73,6 +73,279 @@
       "title": "Faible corpus",
       "text": "les données fournies recensent 11 acteurs et 12 liens structurés ; de nouvelles sources pourront enrichir le référentiel.",
       "evidence_ids": []
+    },
+    {
+      "id": "vigilance_timeline_20261108",
+      "title": "Niveaux de puissance, travaux et sources",
+      "text": "Ne pas confondre 50 MW IT annoncés par Digital Realty, des capacités électriques de raccordement ou d'anciens chiffrages de puissance cités dans la presse. L'autorisation d'exploiter et la fin d'une consultation ne démontrent pas une mise en service.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_011",
+        "evidence_bouc_20261108_013",
+        "evidence_bouc_20261108_016"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "milestone_bouc_20261108_001",
+      "date": "2024-11-15",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Réunion entre Bouc-Bel-Air Environnement et Digital Realty",
+      "details": "Fabrice Coquio et l'équipe de Digital Realty reçoivent des représentants de BBAE. L'association formule des questions sur les nuisances, l'eau, les risques et l'alimentation électrique. Les engagements sont déclaratifs et restent à vérifier.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_001"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_002",
+      "date": "2024-11-20",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Le Nuage était sous nos pieds mentionne publiquement MRS6",
+      "details": "Le collectif décrit le projet Digital Realty à Bouc-Bel-Air dans son enquête régionale sur les infrastructures numériques. Cette première mention ne démontre pas une première opposition formelle à cette date.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_002"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_003",
+      "date": "2025-02-17",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Opposition affichée de la municipalité et demandes d'aménagement",
+      "details": "Le communiqué municipal indique une opposition au projet, tout en mentionnant des concessions discutées sur la conservation du bâti, l'insonorisation, l'éclairage et le risque d'incendie.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_003"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_004",
+      "date": "2025-05-26",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Autorisation d'études préalables pour RTE",
+      "details": "L'arrêté préfectoral 2025-17 permet des investigations foncières et de terrain pour étudier le raccordement de Digital MRS6 à Bouc-Bel-Air et Cabriès ; les ouvrages ne sont pas encore construits.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_004"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_005",
+      "date": "2025-06-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis de l'Autorité environnementale (IGEDD)",
+      "details": "L'Ae rend un avis sur la qualité de l'étude d'impact, évoquant notamment les scénarios de fonctionnement des groupes électrogènes, les fluides frigorigènes et les impacts cumulés. Cet avis n'est ni un refus ni une autorisation.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_005"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_006",
+      "date": "2025-09-10",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Arrêté d'ouverture d'une enquête publique unique",
+      "details": "La préfecture signe l'arrêté ouvrant l'enquête publique concernant l'autorisation environnementale et la demande de permis de construire de DIGITAL MRS6.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_006"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_007",
+      "date": "2025-10-06",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Début de l'enquête publique MRS6",
+      "details": "Le registre officiel ouvre la collecte d'avis sur le centre de données et ses demandes d'autorisation, jusqu'au 7 novembre.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_007"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_008",
+      "date": "2025-11-07",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Clôture de l'enquête et contribution d'opposants",
+      "details": "Le Nuage était sous nos pieds publie sa contribution critique, affirmant s'être mobilisé avec FNE 13, des habitants et d'autres collectifs. Il s'agit d'une position attribuée au collectif.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_008"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_009",
+      "date": "2025-11-25",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "La commune annonce un avis favorable conditionnel",
+      "details": "La municipalité annonce que le conseil municipal a rendu un avis favorable assorti de réserves et d'exigences ; évolution explicite par rapport à son opposition affichée en février.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_009"
+      ],
+      "date_basis": "Date de publication du communiqué ; conseil municipal tenu la veille."
+    },
+    {
+      "id": "milestone_bouc_20261108_010",
+      "date": "2026-01-22",
+      "period_precision": "day",
+      "status": "reported",
+      "title": "Permis de construire MRS6 déclaré accordé",
+      "details": "Un registre privé d'autorisations d'urbanisme recense un permis DIGITAL MRS6 à la date du 22 janvier 2026. Il reste préférable de vérifier l'arrêté municipal original.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_010"
+      ],
+      "source_limit": "Répertoire privé ; arrêté municipal non consulté."
+    },
+    {
+      "id": "milestone_bouc_20261108_011",
+      "date": "2026-02-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Autorisation environnementale d'exploitation",
+      "details": "La préfecture répertorie l'arrêté du 12 février 2026 autorisant l'exploitation du data center DIGITAL MRS6. Cette autorisation ne prouve ni construction terminée ni mise en service.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_011"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_012",
+      "date": "2026-05-28",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Publication d'un témoignage critique d'Hervé Plisson",
+      "details": "L'ADN recueille les réserves d'Hervé Plisson, habitant de Bouc-Bel-Air, sur la rapidité du déploiement des data centers dans la métropole.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_012"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_013",
+      "date": "2026-08-18",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Raccordement : calendrier de consultation communiqué",
+      "details": "La mairie présente le raccordement électrique proposé par RTE : deux liaisons souterraines 225 kV d'environ 7 km entre le poste Realtor à Cabriès et le poste LEPINE. Tracé et autorisations doivent rester distingués de la mise en service.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_013"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_014",
+      "date": "2026-09-16",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de la participation du public sur le raccordement",
+      "details": "La procédure participative distincte de celle du centre de données est ouverte sur les liaisons RTE prévues à Bouc-Bel-Air et Cabriès.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_014"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_015",
+      "date": "2026-10-20",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Clôture de la participation du public sur le raccordement",
+      "details": "Le registre numérique du raccordement indique que la collecte des observations est close ; cela n'atteste pas à lui seul la délivrance des autorisations finales de ligne.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_015"
+      ]
+    },
+    {
+      "id": "milestone_bouc_20261108_016",
+      "date": "2028",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Horizon de livraison annoncé par Digital Realty",
+      "details": "Le porteur prévoit une livraison en 2028, sous réserve des étapes de réalisation et des conditions techniques ; ce n'est pas une mise en service acquise.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_016"
+      ]
+    }
+  ],
+  "fact_sheet": [
+    {
+      "id": "fact_bouc_20261108_001",
+      "label": "Projet central",
+      "value": "MRS6 – Bouc-Bel-Air, ZAC des Chabauds",
+      "qualifier": "Reconversion d'un ancien entrepôt logistique Décathlon, distincte des autres campus Digital Realty de Marseille.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_017"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_002",
+      "label": "Surface IT prévue",
+      "value": "20 000 m²",
+      "qualifier": "Surface dédiée à l'informatique déclarée par Digital Realty, différente des surfaces de site ou de bâtiment affichées ailleurs dans les dossiers.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_018"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_003",
+      "label": "Capacité informatique",
+      "value": "50 MW IT",
+      "qualifier": "Puissance informatique annoncée par le porteur, distincte de la puissance de raccordement et de la consommation annuelle.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_019"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_004",
+      "label": "Investissement initial communiqué",
+      "value": "≈ 700 M€",
+      "qualifier": "Estimation indiquée lors des échanges avec Bouc-Bel-Air Environnement en novembre 2024 ; pas un montant de dépenses déjà réalisé.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_020"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_005",
+      "label": "Raccordement RTE envisagé",
+      "value": "2 × 225 kV enterré, ~7 km",
+      "qualifier": "Double liaison vers Cabriès (Realtor), dont les travaux et la mise en service ne sont pas établis par la consultation.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_021"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_006",
+      "label": "Autorisation ICPE",
+      "value": "12 février 2026",
+      "qualifier": "Arrêté préfectoral d'autorisation d'exploitation ; ne signifie pas que le data center fonctionne déjà.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_022"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_007",
+      "label": "Première position municipale documentée",
+      "value": "Opposition — février 2025",
+      "qualifier": "La commune publie ensuite en novembre 2025 un avis favorable conditionnel : ne pas fusionner les deux états temporels.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_023"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_008",
+      "label": "Position municipale publiée ensuite",
+      "value": "Favorable sous conditions — novembre 2025",
+      "qualifier": "Décision d'avis conditionnel publiée par la commune, pas la preuve de disparition des réserves environnementales.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_024"
+      ]
+    },
+    {
+      "id": "fact_bouc_20261108_009",
+      "label": "Calendrier industriel",
+      "value": "2026 → 2028",
+      "qualifier": "Début de construction prévu en 2026 et livraison annoncée en 2028 ; ces projections ne sont pas un état d'avancement vérifié.",
+      "evidence_ids": [
+        "evidence_bouc_20261108_025"
+      ]
     }
   ]
 }

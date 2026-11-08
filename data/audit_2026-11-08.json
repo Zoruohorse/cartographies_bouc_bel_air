@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-08",
+  "baseline": {
+    "actors": 11,
+    "claims": 11,
+    "evidence": 11,
+    "sources_without_url": 2
+  },
+  "result": {
+    "actors": 12,
+    "claims": 11,
+    "evidence": 36,
+    "sources": 19,
+    "qualified_sources_added": 17,
+    "chronology_milestones": 16,
+    "chronology_fact_sheet": 9,
+    "dated_actors": 8,
+    "undated_actors": 3
+  },
+  "categorical_counts": {
+    "elus": 1,
+    "associations": 3,
+    "entreprises": 2,
+    "institutions": 1,
+    "collectivites": 1,
+    "other": 0
+  },
+  "undated_actor_ids": [
+    "actor_0009",
+    "actor_0010",
+    "actor_0011"
+  ],
+  "method": "Ajout d'une chronologie sourcée et du graphique des premières apparitions documentaires ; aucune réécriture de position, acteur ou relation historique.",
+  "vigilance": [
+    "Deux sources historiques restent sans URL : conservées comme corpus non qualifié et non employées dans les deux nouveaux onglets.",
+    "Permis du 22 janvier 2026 repris d'un agrégateur non officiel : à confronter à l'arrêté municipal.",
+    "L'avis municipal oppose une position opposée en février 2025 à un avis favorable assorti de conditions en novembre 2025.",
+    "Puissance IT (50 MW) et capacités d'alimentation réseau non interchangeables.",
+    "Les groupes d'acteurs décrivent leurs rôles, non une prise de position.",
+    "Trois acteurs sans date de première expression nominative vérifiable sont affichés hors graphique.",
+    "Les dates futures relèvent de projections, pas de faits achevés."
+  ],
+  "files": [
+    "data/content.json",
+    "data/meta.json",
+    "data/evidence.json",
+    "data/sources.json",
+    "data/timeline.json",
+    "config/taxonomy.json",
+    "apps/cards/index.html",
+    "assets/js/cards.js",
+    "assets/js/data-loader.js",
+    "assets/js/evolution.js",
+    "assets/css/evolution.css",
+    "assets/css/chronology.css",
+    "data/audit_2026-11-08.json",
+    "validate.py"
+  ]
+}

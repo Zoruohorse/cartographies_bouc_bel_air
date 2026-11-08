@@ -1,0 +1,205 @@
+[
+  {
+    "id": "timeline_bouc_actor_0001",
+    "actor_id": "actor_0001",
+    "event_type": "first_documented_appearance",
+    "date": "2024-11-15",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_bouc_20261108_bbae_2024"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_001"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date de la rencontre explicitement écrite dans le compte rendu BBAE, date de mise en ligne du PDF non établie.",
+    "summary": "Première présence documentée de Digital Realty à la réunion sur le site MRS6, selon Bouc-Bel-Air Environnement.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_appearance",
+    "date": "2024-11-15",
+    "date_precision": "day",
+    "category": "entreprises",
+    "source_ids": [
+      "source_bouc_20261108_bbae_2024"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_001"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date de la rencontre explicitement écrite dans le compte rendu BBAE, date de mise en ligne du PDF non établie.",
+    "summary": "Fabrice Coquio, président France de Digital Realty, rencontre BBAE le 15 novembre 2024 pour présenter le projet.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2024-11-15",
+    "date_precision": "day",
+    "category": "associations",
+    "source_ids": [
+      "source_bouc_20261108_bbae_2024"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_001"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date de la rencontre explicitement écrite dans le compte rendu BBAE, date de mise en ligne du PDF non établie.",
+    "summary": "Bouc-Bel-Air Environnement présente les interrogations sur les nuisances et les risques lors d'une réunion avec Digital Realty.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2024-11-20",
+    "date_precision": "day",
+    "category": "associations",
+    "source_ids": [
+      "source_bouc_20261108_nuage_2024"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_002"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date explicitement publiée ou date de l'acte mentionnée dans la source, première apparition exploitable du lot (pas première position historique).",
+    "summary": "Le Nuage était sous nos pieds cite explicitement le projet MRS6 dans une enquête sur les infrastructures numériques ; ne préjuge pas de la date de sa première opposition ciblée.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_appearance",
+    "date": "2025-02-17",
+    "date_precision": "day",
+    "category": "collectivites",
+    "source_ids": [
+      "source_bouc_20261108_municipal_2025feb"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_003"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date explicitement publiée ou date de l'acte mentionnée dans la source, première apparition exploitable du lot (pas première position historique).",
+    "summary": "La mairie affiche une opposition en février, puis annonce un avis favorable conditionnel en novembre 2025.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2025-05-26",
+    "date_precision": "day",
+    "category": "institutions",
+    "source_ids": [
+      "source_bouc_20261108_rte_study"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_004"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date explicitement publiée ou date de l'acte mentionnée dans la source, première apparition exploitable du lot (pas première position historique).",
+    "summary": "Un arrêté autorise RTE à réaliser des études foncières et techniques de raccordement MRS6 dans les communes concernées.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-07",
+    "date_precision": "day",
+    "category": "associations",
+    "source_ids": [
+      "source_bouc_20261108_nuage_2025"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_008"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date explicitement publiée ou date de l'acte mentionnée dans la source, première apparition exploitable du lot (pas première position historique).",
+    "summary": "FNE Bouches-du-Rhône est citée parmi les associations mobilisées contre MRS6 dans la réponse du Nuage à l'enquête publique.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-28",
+    "date_precision": "day",
+    "category": "elus",
+    "source_ids": [
+      "source_bouc_20261108_ladn_2026"
+    ],
+    "evidence_ids": [
+      "evidence_bouc_20261108_012"
+    ],
+    "confidence": "high",
+    "status": "confirmed",
+    "date_basis": "Date explicitement publiée ou date de l'acte mentionnée dans la source, première apparition exploitable du lot (pas première position historique).",
+    "summary": "Hervé Plisson intervient dans un reportage sur les contestations de data centers et la rapidité des procédures autour du site.",
+    "statement_kind": "first_corpus_documented_appearance_not_first_public_stance"
+  },
+  {
+    "id": "timeline_bouc_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "associations",
+    "source_ids": [
+      "source_bouc_20261108_fne_team"
+    ],
+    "evidence_ids": [],
+    "confidence": "low",
+    "status": "undated",
+    "date_basis": "Stéphane Coppey est identifié dans les responsables de FNE 13, mais sa prise de parole nominative sur MRS6 n'est pas datée par les documents consultés.",
+    "summary": "Stéphane Coppey est identifié dans les responsables de FNE 13, mais sa prise de parole nominative sur MRS6 n'est pas datée par les documents consultés.",
+    "statement_kind": "excluded_from_numeric_chronology"
+  },
+  {
+    "id": "timeline_bouc_actor_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "associations",
+    "source_ids": [
+      "source_bouc_20261108_nuage_2025"
+    ],
+    "evidence_ids": [],
+    "confidence": "low",
+    "status": "undated",
+    "date_basis": "Antoine Devillet est cité dans la base initiale comme porte-parole du Nuage. Aucun document nominatif daté sur MRS6 n'a été établi lors de ce lot.",
+    "summary": "Antoine Devillet est cité dans la base initiale comme porte-parole du Nuage. Aucun document nominatif daté sur MRS6 n'a été établi lors de ce lot.",
+    "statement_kind": "excluded_from_numeric_chronology"
+  },
+  {
+    "id": "timeline_bouc_actor_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "category": "elus",
+    "source_ids": [
+      "source_bouc_20261108_barles_post"
+    ],
+    "evidence_ids": [],
+    "confidence": "low",
+    "status": "undated",
+    "date_basis": "Sébastien Barles a publié un message personnel sur une conférence de presse MRS6, mais la date exacte de publication n'est pas démontrée par la page consultable.",
+    "summary": "Sébastien Barles a publié un message personnel sur une conférence de presse MRS6, mais la date exacte de publication n'est pas démontrée par la page consultable.",
+    "statement_kind": "excluded_from_numeric_chronology"
+  }
+]
