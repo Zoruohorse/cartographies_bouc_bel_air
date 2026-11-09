@@ -50,3 +50,8 @@
 .evolution-shell{max-width:1460px;margin:0 auto;padding:27px 4vw 55px}
 .evolution-method{line-height:1.45}
 .evolution-sources a{color:#2563eb;text-decoration:underline;text-underline-offset:2px}
+
+/* 2026-11-09 : troisième variante, sans modification des autres vues. */
+#tab-evolution .evolution-modes{flex-wrap:wrap}
+#tab-evolution .evolution-modes button{white-space:nowrap}
+@media(max-width:850px){#tab-evolution .evolution-modes{width:100%}}

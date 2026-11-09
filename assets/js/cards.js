@@ -1,5 +1,5 @@
 import{loadRepository,esc,norm,actorClaim,evidenceHtml as sourceEvidenceHtml}from'./data-loader.js?v=bouc-complet-v3';
-import { initEvolution } from './evolution.js?v=bouc-complet-v3';
+import { initEvolution } from './evolution.js?v=bouc-position-20261109';
 const d=await loadRepository();let cat='all',stance='all',q='';
 const $=id=>document.getElementById(id),title=$('title'),subtitle=$('subtitle'),notice=$('notice'),categories=$('categories'),stances=$('stances'),count=$('count'),grid=$('grid'),search=$('search'),clearSearch=$('clear-search'),reset=$('reset'),dialog=$('dialog'),detail=$('detail');
 title.textContent=d.meta.title;subtitle.textContent=d.meta.subtitle;notice.textContent=d.meta.data_notice;
